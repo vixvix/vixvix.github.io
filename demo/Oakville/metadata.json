@@ -1,0 +1,12 @@
+{
+  "name": "Oakville Map",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "13",
+  "bounds": "-79.79621948,43.44876476,-79.69248707,43.53053937",
+  "scale": "1",
+  "profile": "mercator"
+}
