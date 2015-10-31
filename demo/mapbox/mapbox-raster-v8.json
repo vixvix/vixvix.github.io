@@ -5,6 +5,13 @@
       "type": "raster",
       "url": "mapbox://vixvix.cigbfxfiz0c1yuckn97lfl6yt",
       "tileSize": 256
+    },
+    "yourTileLayer": {
+      "type": "raster",
+      "tiles": [
+        "http://vixvix.github.io/demo/Oakville/Mattamy_Phase1B_Site2/{z}/{x}/{y}.png"
+      ],
+      "tileSize": 14
     }
   },
   "layers": [
@@ -12,6 +19,14 @@
       "id": "simple-tiles",
       "type": "raster",
       "source": "simple-tiles"
+    },
+    {
+      "id": "yourTileLayer",
+      "type": "raster",
+      "source": "yourTileLayer",
+      "paint": {
+        "raster-fade-duration": 100
+      }
     }
   ]
 }
