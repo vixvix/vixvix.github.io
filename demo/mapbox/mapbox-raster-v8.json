@@ -4,7 +4,7 @@
     "yourTileLayer": {
       "type": "raster",
       "tiles": [
-        "http://vixvix.github.io/demo/Oakville/Mattamy_Phase1B_Site2/{z}/{x}/{y}.png",
+        "http://vixvix.github.io/demo/Oakville/Mattamy_Phase1B_Site2/{z}/{x}/{y}.png"
       ],
       "tileSize": 256
     }
