@@ -16,14 +16,6 @@
   },
   "layers": [
     {
-      "id": "yourTileLayer",
-      "type": "raster",
-      "source": "yourTileLayer",
-      "paint": {
-        "raster-fade-duration": 100
-      }
-    },
-    {
       "id": "simple-tiles",
       "type": "raster",
       "source": "simple-tiles"
