@@ -5,7 +5,6 @@
       "type": "raster",
       "tiles": [
         "http://vixvix.github.io/demo/Oakville/Mattamy_Phase1B_Site2/{z}/{x}/{y}.png",
-        "mapbox://vixvix.cigbfxfiz0c1yuckn97lfl6yt",
       ],
       "tileSize": 256
     },
